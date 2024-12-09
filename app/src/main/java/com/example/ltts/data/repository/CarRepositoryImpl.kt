@@ -44,7 +44,5 @@ class CarRepositoryImpl @Inject constructor(private val carApi: CarApi, private 
               lttsDatabase.getLttsDao().updateBrand(number,brand , name,desc)
           }
       }
-
-
-
+   " hghggggghgh"
 }
