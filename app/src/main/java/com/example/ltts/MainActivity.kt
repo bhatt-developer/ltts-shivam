@@ -36,4 +36,7 @@ class MainActivity : AppCompatActivity() {
         val graph = inflater.inflate(R.navigation.car_nav_graph)
         navController.graph = graph
     }
+    private fun navigationGraph(){
+
+    }
 }
