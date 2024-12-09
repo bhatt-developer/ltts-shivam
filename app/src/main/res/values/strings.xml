@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LTTS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="update">OK</string>
+    <string name="update_brand">Update Brand</string>
+    <string name="are_you_sure">Are you sure you want to \nupdate your car?</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_brand_name">Enter brand name</string>
+    <string name="brand_name">Brand name</string>
+    <string name="car_name">Car name</string>
+    <string name="description">Description</string>
+</resources>
