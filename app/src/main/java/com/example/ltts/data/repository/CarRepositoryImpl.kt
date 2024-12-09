@@ -45,4 +45,8 @@ class CarRepositoryImpl @Inject constructor(private val carApi: CarApi, private 
           }
       }
 
+    fun getData(){
+        val sd = "dasjsj"
+    }
+
 }
