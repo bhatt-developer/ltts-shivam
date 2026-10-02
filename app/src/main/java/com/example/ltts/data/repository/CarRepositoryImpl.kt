@@ -42,7 +42,6 @@ class CarRepositoryImpl @Inject constructor(private val carApi: CarApi, private 
       override fun updateBrand(number: Int, brand: String, name : String , desc: String){
           CoroutineScope(Dispatchers.IO).launch {
               lttsDatabase.getLttsDao().updateBrand(number,brand , name,desc)
-              fdsfdfdff
           }
       }
 

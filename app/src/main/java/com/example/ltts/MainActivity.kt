@@ -36,4 +36,8 @@ class MainActivity : AppCompatActivity() {
         val graph = inflater.inflate(R.navigation.car_nav_graph)
         navController.graph = graph
     }
+
+    override fun onResume() {
+        super.onResume()
+    }
 }
